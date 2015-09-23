@@ -1,4 +1,4 @@
 Issues
 ======
 
-** TODO: Add description **
+Elixir CLI project that fetches Github issues for specific repository.
